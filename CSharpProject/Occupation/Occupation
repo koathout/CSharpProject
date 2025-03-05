@@ -1,0 +1,17 @@
+namespace Occupation
+{
+    public class Job
+    {
+        public void string Company = "Goodgle";
+        public void int Salary = 100000;
+        public void bool isRemote = true;
+    
+
+    public void class AnotherJob
+    {
+        public void string Company = "Aplacetowork";
+        public void int Salary = 120000;
+        public void bool isRemote = false;
+    }
+}
+}

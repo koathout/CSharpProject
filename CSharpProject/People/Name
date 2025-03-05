@@ -1,0 +1,16 @@
+namespace People
+{
+   public class Person
+    {
+        public void string Name = "Max";
+        public void int Age = 20;
+        public void bool isStudent = true;
+    }
+
+    public class AnotherPerson
+    {
+        public void string Name = "Sophie";
+        public void int Age = 25;
+        public void bool isStudent = false;
+    }
+}

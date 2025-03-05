@@ -1,0 +1,14 @@
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.AssemblyInfo.cs
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\bin\Debug\net9.0\CSharpProject.exe
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\bin\Debug\net9.0\CSharpProject.deps.json
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\bin\Debug\net9.0\CSharpProject.runtimeconfig.json
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\bin\Debug\net9.0\CSharpProject.dll
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\bin\Debug\net9.0\CSharpProject.pdb
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.dll
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\refint\CSharpProject.dll
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.pdb
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\CSharpProject.genruntimeconfig.cache
+C:\Users\Kaia Oathout\Deliverables\tech\tuesday\CSharpProject\obj\Debug\net9.0\ref\CSharpProject.dll

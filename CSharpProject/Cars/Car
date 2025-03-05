@@ -1,0 +1,16 @@
+namespace Cars
+{
+    public class Car
+    {
+        public void string Brand = "BMW";
+        public void int Year = 2020;
+        public void bool isElectric = true;
+    }
+
+    public class AnotherCar
+    {
+        public void string Brand = "Audi";
+        public void int Year = 2019;
+        public void bool isElectric = false;
+    }
+}
