@@ -59,33 +59,13 @@ class Program
     static void Main()
     {
         Person person = new Person();
-        Console.WriteLine(person.Name);
-        Console.WriteLine(person.Age);
-        Console.WriteLine(person.isStudent);
-
         AnotherPerson anotherPerson = new AnotherPerson();
-        Console.WriteLine(anotherPerson.Name);
-        Console.WriteLine(anotherPerson.Age);
-        Console.WriteLine(anotherPerson.isStudent);
-
         Car car = new Car();
-        Console.WriteLine(car.Brand);
-        Console.WriteLine(car.Year);
-        Console.WriteLine(car.isElectric);
-
         AnotherCar anotherCar = new AnotherCar();
-        Console.WriteLine(anotherCar.Brand);
-        Console.WriteLine(anotherCar.Year);
-        Console.WriteLine(anotherCar.isElectric);
-
         Job job = new Job();
-        Console.WriteLine(job.Company);
-        Console.WriteLine(job.Salary);
-        Console.WriteLine(job.isRemote);
-
         AnotherJob anotherJob = new AnotherJob();
-        Console.WriteLine(anotherJob.Company);
-        Console.WriteLine(anotherJob.Salary);
-        Console.WriteLine(anotherJob.isRemote);
+        Console.WriteLine(person.Name + " and " + anotherPerson.Name + " are friends.");
+        Console.WriteLine(person.Name + " drives a " + car.Brand + " and " + anotherPerson.Name + " drives an " + anotherCar.Brand + ".");
+        Console.WriteLine(person.Name + " works at " + job.Company + " and " + anotherPerson.Name + " works at " + anotherJob.Company + ".");
     }
 }
